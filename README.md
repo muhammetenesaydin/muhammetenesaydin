@@ -1,5 +1,8 @@
 ### Naber 👋
 
+Ben Enes Yapay zeka ve robotikle ilgileniyorum  
+
+
 <!--
 **muhammetenesaydin/muhammetenesaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
