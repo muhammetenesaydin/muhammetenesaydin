@@ -1,6 +1,5 @@
 ### Naber 👋
 
-Ben Enes Yapay zeka ve robotikle ilgileniyorum  
 
 
 <!--
