@@ -1,18 +1,40 @@
-### Naber 👋
+# 🚀 Md Farid – GitHub Activity Game
 
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 
+---
 
-<!--
-**muhammetenesaydin/muhammetenesaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I’m Md Farid  
 
-Here are some ideas to get you started:
+I’m a **Full-Stack Web Developer** with strong interest in **Web3, Blockchain, and Automation**.  
+I enjoy building real-world projects, participating in hackathons, and experimenting with developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🕹️ About This Animation  
+
+This space-shooter animation is **auto-generated from my GitHub contributions** using a GitHub Action.  
+It updates automatically to reflect my recent activity.
+
+---
+
+### 🛠️ Tech & Interests  
+
+- 🌐 Web Development (MERN, WordPress)
+- 🔗 Web3 & Blockchain
+- ⚙️ GitHub Actions & Automation
+- 🚀 Hackathons & Open-Source
+
+---
+
+### 📫 Connect With Me  
+
+- 🌍 Portfolio: https://thefarid.xyz  
+- 🐦 Twitter/X: https://x.com/MdFarid7886  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-farid-1aa563291/
+
+---
+
+⭐ *This README updates automatically using GitHub Actions.*
