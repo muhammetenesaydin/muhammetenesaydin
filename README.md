@@ -58,6 +58,13 @@ class MuhammetEnesAydin:
 
 ---
 
+<p align="center">
+  <img src="./assets/autonomous-vehicle.gif" height="220" alt="Autonomous Vehicle" />
+  &nbsp;&nbsp;
+  <img src="./assets/giphy-2.gif" height="220" alt="Robotics Animation" />
+</p>
+
+
 ## 🛠️ Tech Stack & Core Domains
 
 <p align="center">
