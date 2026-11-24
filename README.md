@@ -1,11 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=210&section=header&text=Muhammet%20Enes%20Ayd%C4%B1n&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Autonomous%20Systems%20%7C%20Robotics%20%7C%20AI%20%26%20Embedded%20Engineering&descAlignY=62&descSize=15&animation=fadeIn" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Autonomous+Systems+%26+Robotics+(UAV+%2F+USV+%2F+ROV);AI%2C+Computer+Vision+%26+TensorRT+Optimization;ROS+2+%2F+Gazebo+%2F+ArduPilot+%26+Embedded+Systems;Protocol+Security+(CAN+%2F+OCPP)+%26+Full-Stack+Web" alt="Typing SVG" />
+  <img src="./assets/header.svg" width="100%" alt="Muhammet Enes Aydın — AI & Autonomous Systems" />
 </p>
 
 <p align="center">
@@ -24,9 +20,6 @@
   <a href="./portfoy_Eng.pdf">
     <img src="https://img.shields.io/badge/Portfolio_PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Portfolio PDF" />
   </a>
-  <a href="#-portfolio">
-    <img src="https://img.shields.io/badge/Preview_Portfolio-0EA5E9?style=for-the-badge" alt="Preview Portfolio" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=muhammetenesaydin&color=0ea5e9&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
@@ -34,7 +27,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="./giphy.gif" width="275" alt="Autonomous Vehicle" />
+<img align="right" src="./assets/autonomous-vehicle.gif" width="310" alt="Autonomous Vehicle" />
 
 - 🎓 Engineering student and developer specializing in **Artificial Intelligence & Autonomous Systems**, building multidisciplinary systems across **Robotics**, **Computer Vision**, **Embedded Systems & PCB Design**, **Protocol Security**, and **Full-Stack Web**.
 - 🤖 Practical experience bridging simulation and hardware with **ROS 2 (Humble)**, **Gazebo**, **ArduPilot**, **MoveIt 2**, **PyTorch**, **OpenCV**, **NVIDIA TensorRT**, **ESP32 / LoRa**, and **FastAPI / React**.
@@ -67,6 +60,8 @@ class MuhammetEnesAydin:
 
 ## 💼 Experience
 
+<img align="right" src="./assets/giphy-2.gif" width="240" alt="Robotics & Embedded Systems Animation" />
+
 ### 🔹 Degz Robotics — *Engineering Intern*
 - **Autonomous ROV Simulation:** Conducted autonomous driving tests for the **BlueROV2** platform in **Gazebo** & **ArduPilot**; established bidirectional **ROS 2 Humble ↔ Gazebo** communication (`ros_gz_bridge`); implemented autonomous arming, steering, and thrust control via **Pymavlink**; analyzed real-time telemetry with **PlotJuggler**.
 - **3D Path Planning & Control:** Developed a **3D RRT** obstacle-avoidance path planner in Python paired with **Model Predictive Control (MPC)** to track 3D trajectories under speed and orientation constraints.
@@ -75,6 +70,8 @@ class MuhammetEnesAydin:
 
 ### 🔹 Bluesense — *Volunteer Intern*
 - Built a lightweight deep learning model (**MobileNetV3**) to predict hydration levels from facial images.
+
+<br clear="right"/>
 
 ---
 
@@ -173,10 +170,6 @@ class MuhammetEnesAydin:
 ## 📊 GitHub & Coding Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammetenesaydin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammetenesaydin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetenesaydin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
@@ -201,5 +194,5 @@ class MuhammetEnesAydin:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0284C7,100:0F172A&height=110&section=footer" alt="Footer Banner" />
+  <img src="./assets/footer.svg" width="100%" alt="Simulation to Real-Time Optimization to Field Deployment" />
 </p>
