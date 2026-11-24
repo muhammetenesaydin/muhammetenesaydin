@@ -48,6 +48,10 @@ class MuhammetEnesAydin:
 
 <br clear="right"/>
 
+
+<img align="right" src="./assets/autonomous-vehicle.gif" width="300" alt="Autonomous Vehicle" />
+
+
 <div align="center">
 
 | ⚡ Real-Time AI | 🎯 Combat UAV Vision | 🤖 Multi-Domain Robotics | 🏆 Competitions |
