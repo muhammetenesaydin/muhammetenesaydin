@@ -29,6 +29,8 @@
 
 <img align="right" src="./assets/autonomous-vehicle.gif" width="300" alt="Autonomous Vehicle" />
 
+
+
 - 🎓 Engineering student & developer focused on **AI & Autonomous Systems** across **Robotics**, **Computer Vision**, **Embedded / PCB**, **Protocol Security**, and **Full-Stack Web**.
 - 🤖 Building real-time simulation-to-hardware stacks with **ROS 2 (Humble)**, **Gazebo**, **ArduPilot**, **MoveIt 2**, **PyTorch**, **OpenCV**, and **NVIDIA TensorRT**.
 - 🏆 **Teknofest** competitor (**Air Defense**, **Combat UAV**, **USV**, **NLP**) — open to collaborations.
