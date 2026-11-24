@@ -1,8 +1,4 @@
-<a id="top"></a>
 
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Muhammet Enes Aydın — AI & Autonomous Systems" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enesaydin0000">
