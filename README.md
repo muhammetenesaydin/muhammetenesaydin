@@ -1,3 +1,4 @@
+
 <h1 align="center">Muhammet Enes Aydın</h1>
 
 <p align="center">
@@ -23,13 +24,9 @@
   <img src="https://komarev.com/ghpvc/?username=muhammetenesaydin&color=0ea5e9&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
----
-
 ## 🚀 About Me
 
-<img align="right" src="./assets/autonomous-vehicle.gif" width="300" alt="Autonomous Vehicle" />
-
-
+<img align="right" src="./assets/autonomous-vehicle.gif" width="250" alt="Autonomous Vehicle" />
 
 - 🎓 Engineering student & developer focused on **AI & Autonomous Systems** across **Robotics**, **Computer Vision**, **Embedded / PCB**, **Protocol Security**, and **Full-Stack Web**.
 - 🤖 Building real-time simulation-to-hardware stacks with **ROS 2 (Humble)**, **Gazebo**, **ArduPilot**, **MoveIt 2**, **PyTorch**, **OpenCV**, and **NVIDIA TensorRT**.
@@ -38,13 +35,15 @@
 ```python
 # engineer_profile.py
 class MuhammetEnesAydin:
-    focus     = ["Robotics & Autonomous Vehicles", "Computer Vision", "Embedded & Security"]
-    autonomy  = ["ROS 2 Humble", "Gazebo", "ArduPilot", "MoveIt 2", "3D RRT & MPC"]
-    ai_vision = ["PyTorch", "YOLOv7/v8", "TensorRT (120-150 FPS)", "OpenCV"]
+    focus     = ["Robotics", "Computer Vision", "Embedded & Security"]
+    autonomy  = ["ROS 2 Humble", "Gazebo", "ArduPilot", "MoveIt 2", "MPC"]
+    ai_vision = ["PyTorch", "YOLOv7/v8", "TensorRT (150 FPS)", "OpenCV"]
     hardware  = ["ESP32", "LoRa", "PCB Design", "CAN / OCPP Protocols"]
     web_stack = ["FastAPI", "React.js", "PostgreSQL", "Gemini API"]
-    mindset   = "Simulation -> Real-Time Optimization -> Field Deployment"
-```
+    mindset   = "Simulation -> Optimization -> Field Deployment"
+
+
+
 
 <br clear="right"/>
 
