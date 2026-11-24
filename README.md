@@ -97,23 +97,6 @@ class MuhammetEnesAydin:
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/muhammetenesaydin/YOLOv8-TensorRT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammetenesaydin&repo=YOLOv8-TensorRT&theme=tokyonight&hide_border=true" alt="YOLOv8-TensorRT" />
-  </a>
-  <a href="https://github.com/muhammetenesaydin/EV-Charging_Station_Secure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammetenesaydin&repo=EV-Charging_Station_Secure&theme=tokyonight&hide_border=true" alt="EV-Charging_Station_Secure" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/muhammetenesaydin/UAV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammetenesaydin&repo=UAV&theme=tokyonight&hide_border=true" alt="UAV" />
-  </a>
-  <a href="https://github.com/muhammetenesaydin/Multi-Source-Search-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammetenesaydin&repo=Multi-Source-Search-API&theme=tokyonight&hide_border=true" alt="Multi-Source-Search-API" />
-  </a>
-</p>
-
 ### 🏆 Teknofest & Autonomous Systems
 
 | Project | Overview | Link |
