@@ -26,7 +26,11 @@
 
 ## 🚀 About Me
 
-<img align="right" src="./assets/autonomous-vehicle.gif" width="250" alt="Autonomous Vehicle" />
+<p align="center">
+  <img src="./assets/autonomous-vehicle.gif" height="220" alt="Autonomous Vehicle" />
+  &nbsp;&nbsp;
+  <img src="./assets/giphy-2.gif" height="220" alt="Robotics Animation" />
+</p>
 
 - 🎓 Engineering student & developer focused on **AI & Autonomous Systems** across **Robotics**, **Computer Vision**, **Embedded / PCB**, **Protocol Security**, and **Full-Stack Web**.
 - 🤖 Building real-time simulation-to-hardware stacks with **ROS 2 (Humble)**, **Gazebo**, **ArduPilot**, **MoveIt 2**, **PyTorch**, **OpenCV**, and **NVIDIA TensorRT**.
@@ -41,15 +45,7 @@ class MuhammetEnesAydin:
     hardware  = ["ESP32", "LoRa", "PCB Design", "CAN / OCPP Protocols"]
     web_stack = ["FastAPI", "React.js", "PostgreSQL", "Gemini API"]
     mindset   = "Simulation -> Optimization -> Field Deployment"
-
-
-
-
-<br clear="right"/>
-
-
-<img align="right" src="./assets/autonomous-vehicle.gif" width="300" alt="Autonomous Vehicle" />
-
+```
 
 <div align="center">
 
