@@ -1,4 +1,8 @@
-## 🚀 About Me
+<h1 align="center">Muhammet Enes Aydın</h1>
+
+<p align="center">
+  <b>AI &amp; Autonomous Systems · Robotics · Computer Vision · Embedded &amp; Security</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enesaydin0000">
@@ -21,22 +25,23 @@
 
 ---
 
-<img align="right" src="./assets/autonomous-vehicle.gif" width="310" alt="Autonomous Vehicle" />
+## 🚀 About Me
 
-- 🎓 Engineering student and developer specializing in **Artificial Intelligence & Autonomous Systems**, building multidisciplinary systems across **Robotics**, **Computer Vision**, **Embedded Systems & PCB Design**, **Protocol Security**, and **Full-Stack Web**.
-- 🤖 Practical experience bridging simulation and hardware with **ROS 2 (Humble)**, **Gazebo**, **ArduPilot**, **MoveIt 2**, **PyTorch**, **OpenCV**, **NVIDIA TensorRT**, **ESP32 / LoRa**, and **FastAPI / React**.
-- 🏆 Active **Teknofest** competitor across **Air Defense Systems**, **Combat UAV**, **Unmanned Surface Vehicle (USV)**, and **NLP** categories.
-- 🤝 Open to collaborations in autonomous vehicles, robotics, real-time vision, embedded engineering, and cybersecurity.
+<img align="right" src="./assets/autonomous-vehicle.gif" width="300" alt="Autonomous Vehicle" />
+
+- 🎓 Engineering student & developer focused on **AI & Autonomous Systems** across **Robotics**, **Computer Vision**, **Embedded / PCB**, **Protocol Security**, and **Full-Stack Web**.
+- 🤖 Building real-time simulation-to-hardware stacks with **ROS 2 (Humble)**, **Gazebo**, **ArduPilot**, **MoveIt 2**, **PyTorch**, **OpenCV**, and **NVIDIA TensorRT**.
+- 🏆 **Teknofest** competitor (**Air Defense**, **Combat UAV**, **USV**, **NLP**) — open to collaborations.
 
 ```python
 # engineer_profile.py
 class MuhammetEnesAydin:
-    focus      = ["Robotics & Autonomous Vehicles", "Computer Vision", "Embedded & Security"]
-    autonomy   = ["ROS 2 Humble", "Gazebo", "ArduPilot", "MoveIt 2", "3D RRT & MPC"]
-    ai_vision  = ["PyTorch", "YOLOv7/v8", "TensorRT (120-150 FPS)", "OpenCV"]
-    hardware   = ["ESP32", "LoRa", "PCB Design", "CAN / OCPP Protocols"]
-    web_stack  = ["FastAPI", "React.js", "PostgreSQL", "Gemini API"]
-    mindset    = "Simulation -> Real-Time Optimization -> Field Deployment"
+    focus     = ["Robotics & Autonomous Vehicles", "Computer Vision", "Embedded & Security"]
+    autonomy  = ["ROS 2 Humble", "Gazebo", "ArduPilot", "MoveIt 2", "3D RRT & MPC"]
+    ai_vision = ["PyTorch", "YOLOv7/v8", "TensorRT (120-150 FPS)", "OpenCV"]
+    hardware  = ["ESP32", "LoRa", "PCB Design", "CAN / OCPP Protocols"]
+    web_stack = ["FastAPI", "React.js", "PostgreSQL", "Gemini API"]
+    mindset   = "Simulation -> Real-Time Optimization -> Field Deployment"
 ```
 
 <br clear="right"/>
@@ -50,7 +55,7 @@ class MuhammetEnesAydin:
 
 </div>
 
-
+---
 
 ## 🛠️ Tech Stack & Core Domains
 
@@ -60,16 +65,16 @@ class MuhammetEnesAydin:
 
 <div align="center">
 
-| 🤖 Robotics & Autonomy | 🧠 AI & Computer Vision |
+| Domain | Technologies |
 | :--- | :--- |
-| ROS 2 (Humble), Gazebo, ArduPilot, PX4, MAVLink / Pymavlink, MoveIt 2, RViz2, PlotJuggler, 3D RRT / RRT\* / MPC | PyTorch, OpenCV, NVIDIA TensorRT (FP16/INT8), YOLOv7/v8, DeepSORT / ByteTrack, MediaPipe, TabPFN, Scikit-learn, Jupyter |
-
-| 🔌 Embedded & Hardware | 🛡️ Security & Full-Stack Web |
-| :--- | :--- |
-| ESP32, Arduino, LoRa, Schematic & PCB Design, CAN Bus, Stepper Drivers, Linux / Ubuntu, Docker, Make | CAN–OCPP Anomaly Detection, FastAPI, Flask, React.js, Gemini API, PostgreSQL, C2 Interfaces |
+| **🤖 Robotics & Autonomy** | ROS 2 (Humble), Gazebo, ArduPilot, PX4, MAVLink / Pymavlink, MoveIt 2, RViz2, PlotJuggler, 3D RRT / RRT\* / MPC |
+| **🧠 AI & Computer Vision** | PyTorch, OpenCV, NVIDIA TensorRT (FP16/INT8), YOLOv7/v8, DeepSORT / ByteTrack, MediaPipe, TabPFN, Scikit-learn, Jupyter |
+| **🔌 Embedded & Hardware** | ESP32, Arduino, LoRa, Schematic & PCB Design, CAN Bus, Stepper Drivers, Linux / Ubuntu, Docker, Make |
+| **🛡️ Security & Full-Stack Web** | CAN–OCPP Anomaly Detection, FastAPI, Flask, React.js, Gemini API, PostgreSQL, C2 Interfaces |
 
 </div>
 
+---
 
 ## 📄 Portfolio
 
@@ -95,4 +100,3 @@ class MuhammetEnesAydin:
   <a href="./portfoy_Eng.pdf"><img src="./assets/portfolio/page-5.png" alt="Portfolio Page 5" width="800" /></a>
 </p>
 </details>
-
