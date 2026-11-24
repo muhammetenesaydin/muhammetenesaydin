@@ -148,34 +148,3 @@ class MuhammetEnesAydin:
 </p>
 </details>
 
----
-
-## 📊 GitHub & Coding Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammetenesaydin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetenesaydin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=muhammetenesaydin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="180" src="https://leetcard.jacoblin.cool/Enes_435?theme=nord&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammetenesaydin&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-<p align="center">
-  Feel free to reach out for collaborations or opportunities — <a href="mailto:enesaydin435@gmail.com">enesaydin435@gmail.com</a> · <a href="https://www.linkedin.com/in/enesaydin0000">LinkedIn</a>
-</p>
-
-<p align="center">
-  <a href="#top">⬆️ Back to Top</a>
-</p>
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Simulation to Real-Time Optimization to Field Deployment" />
-</p>
