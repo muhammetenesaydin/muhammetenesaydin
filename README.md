@@ -53,7 +53,11 @@ class MuhammetEnesAydin:
 ##  Tech Stack & Core Domains
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,bash,cmake,git,ros,pytorch,opencv,ubuntu,arduino,raspberrypi,linux,docker,githubactions,fastapi,flask,react,nextjs,qt,postgres,mongodb,redis,postman&perline=16" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,bash,cmake,git,ros,pytorch,opencv,ubuntu,arduino,raspberrypi,linux,docker,githubactions,fastapi,flask,react,nextjs,qt,postgres,mongodb,redis&perline=13" alt="Tech Stack Icons" />
+  <br>
+  <a href="https://gazebosim.org"><img src="https://cdn.simpleicons.org/gazebo/FF6600" width="44" height="44" alt="Gazebo" title="Gazebo" /></a>
+  &nbsp;
+  <a href="https://developer.nvidia.com"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="44" height="44" alt="NVIDIA TensorRT" title="NVIDIA / TensorRT" /></a>
 </p>
 
 | Domain | Stack |
