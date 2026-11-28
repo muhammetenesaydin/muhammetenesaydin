@@ -53,10 +53,8 @@ class MuhammetEnesAydin:
 ##  Tech Stack & Core Domains
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,bash,ros,pytorch,opencv,linux,arduino,docker,git,fastapi,flask,react,postgres,githubactions&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,bash,cmake,git,ros,pytorch,opencv,nvidia,arduino,raspberrypi,linux,docker,githubactions,fastapi,flask,react,nextjs,qt,postgres,mongodb,redis,postman&perline=9" alt="Tech Stack Icons" />
 </p>
-**Languages:** Python, C++, C, C#, JavaScript, Bash  
-**Tools & Frameworks:** ROS 2, PyTorch, OpenCV, FastAPI, Flask, React, PostgreSQL, Docker, Linux, Arduino, Git, GitHub Actions
 
 | Domain | Stack |
 | :--- | :--- |
