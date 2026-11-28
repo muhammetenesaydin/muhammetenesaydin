@@ -53,11 +53,10 @@ class MuhammetEnesAydin:
 ##  Tech Stack & Core Domains
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,bash,cmake,git,ros,pytorch,opencv,ubuntu,arduino,raspberrypi,linux,docker,githubactions,fastapi,flask,react,nextjs,qt,postgres,mongodb,redis&perline=13" alt="Tech Stack Icons" />
-  <br>
-  <a href="https://gazebosim.org"><img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" width="44" height="44" alt="Gazebo" title="Gazebo" /></a>
-  &nbsp;
-  <a href="https://developer.nvidia.com"><img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" width="54" height="44" alt="NVIDIA TensorRT" title="NVIDIA / TensorRT" /></a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,bash,cmake,git,ros,pytorch,tensorflow,opencv,ubuntu,arduino,raspberrypi,linux,docker,githubactions,flask,qt,postgres,mongodb,redis&perline=12" alt="Tech Stack Icons" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/NVIDIA_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA TensorRT" />
 </p>
 
 | Domain | Stack |
