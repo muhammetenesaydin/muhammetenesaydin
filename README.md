@@ -55,8 +55,9 @@ class MuhammetEnesAydin:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,bash,cmake,git,ros,pytorch,tensorflow,opencv,ubuntu,arduino,raspberrypi,linux,docker,githubactions,flask,qt,postgres,mongodb,redis&perline=12" alt="Tech Stack Icons" />
   <br><br>
-  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/NVIDIA_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA TensorRT" />
+  <a href="https://gazebosim.org"><img src="https://raw.githubusercontent.com/osrf/gazebo/gazebo11/media/gui/gazebo.svg" width="48" height="48" alt="Gazebo" title="Gazebo" /></a>
+  &nbsp;&nbsp;
+  <a href="https://developer.nvidia.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" width="48" height="48" alt="NVIDIA" title="NVIDIA / TensorRT" /></a>
 </p>
 
 | Domain | Stack |
