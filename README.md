@@ -42,16 +42,6 @@ class MuhammetEnesAydin:
     mindset   = "Simulation -> Optimization -> Field Deployment"
 ```
 
-<div align="center">
-
-| ⚡ Real-Time AI | 🎯 Combat UAV Vision | 🤖 Multi-Domain Robotics | 🏆 Competitions |
-| :---: | :---: | :---: | :---: |
-| **120–150 FPS** | **98% Accuracy** | **UAV · USV · ROV** | **Teknofest** |
-| YOLO + TensorRT FP16/INT8 | YOLOv7 on 100k+ dataset | ROS 2 · Gazebo · ArduPilot | Air Defense · UAV · USV · NLP |
-
-</div>
-
----
 
 <p align="center">
   <img src="./assets/autonomous-vehicle.gif" height="220" alt="Autonomous Vehicle" />
