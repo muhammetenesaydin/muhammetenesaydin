@@ -56,17 +56,12 @@ class MuhammetEnesAydin:
   <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,bash,ros,pytorch,opencv,linux,arduino,docker,git,fastapi,flask,react,postgres,githubactions&perline=9" alt="Tech Stack Icons" />
 </p>
 
-<div align="center">
-
-| Domain | Technologies |
+| Domain | Stack |
 | :--- | :--- |
-| **🤖 Robotics & Autonomy** | ROS 2 (Humble), Gazebo, ArduPilot, PX4, MAVLink / Pymavlink, MoveIt 2, RViz2, PlotJuggler, 3D RRT / RRT\* / MPC |
-| **🧠 AI & Computer Vision** | PyTorch, OpenCV, NVIDIA TensorRT (FP16/INT8), YOLOv7/v8, DeepSORT / ByteTrack, MediaPipe, TabPFN, Scikit-learn, Jupyter |
-| **🔌 Embedded & Hardware** | ESP32, Arduino, LoRa, Schematic & PCB Design, CAN Bus, Stepper Drivers, Linux / Ubuntu, Docker, Make |
-| **🛡️ Security & Full-Stack Web** | CAN–OCPP Anomaly Detection, FastAPI, Flask, React.js, Gemini API, PostgreSQL, C2 Interfaces |
-
-</div>
-
+| Robotics & Autonomy | ROS 2 (Humble), Gazebo, ArduPilot, PX4, MAVLink, MoveIt 2, RViz2, PlotJuggler, 3D RRT/RRT*, MPC |
+| AI & Computer Vision | PyTorch, OpenCV, TensorRT (FP16/INT8), YOLOv7/v8, DeepSORT, ByteTrack, MediaPipe, Scikit-learn, TabPFN |
+| Embedded & Hardware | ESP32, Arduino, LoRa, CAN Bus, PCB Design, Stepper Drivers, Linux/Ubuntu, Docker, Make |
+| Security & Web | CAN-OCPP Anomaly Detection, FastAPI, Flask, React, PostgreSQL, Gemini API, C2 Interfaces |
 ---
 
 ## 📄 Portfolio
