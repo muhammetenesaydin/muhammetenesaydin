@@ -24,12 +24,12 @@
   <img src="https://komarev.com/ghpvc/?username=muhammetenesaydin&color=0ea5e9&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
-## 🚀 About Me
+##  About Me
 
 
-- 🎓 Engineering student & developer focused on **AI & Autonomous Systems** across **Robotics**, **Computer Vision**, **Embedded / PCB**, **Protocol Security**, and **Full-Stack Web**.
-- 🤖 Building real-time simulation-to-hardware stacks with **ROS 2 (Humble)**, **Gazebo**, **ArduPilot**, **MoveIt 2**, **PyTorch**, **OpenCV**, and **NVIDIA TensorRT**.
-- 🏆 **Teknofest** competitor (**Air Defense**, **Combat UAV**, **USV**, **NLP**) — open to collaborations.
+-  Engineering student & developer focused on **AI & Autonomous Systems** across **Robotics**, **Computer Vision**, **Embedded / PCB**, **Protocol Security**, and **Full-Stack Web**.
+-  Building real-time simulation-to-hardware stacks with **ROS 2 (Humble)**, **Gazebo**, **ArduPilot**, **MoveIt 2**, **PyTorch**, **OpenCV**, and **NVIDIA TensorRT**.
+-  **Teknofest** competitor (**Air Defense**, **Combat UAV**, **USV**, **NLP**) — open to collaborations.
 
 ```python
 # engineer_profile.py
@@ -50,11 +50,13 @@ class MuhammetEnesAydin:
 </p>
 
 
-## 🛠️ Tech Stack & Core Domains
+##  Tech Stack & Core Domains
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,bash,ros,pytorch,opencv,linux,arduino,docker,git,fastapi,flask,react,postgres,githubactions&perline=9" alt="Tech Stack Icons" />
 </p>
+**Languages:** Python, C++, C, C#, JavaScript, Bash  
+**Tools & Frameworks:** ROS 2, PyTorch, OpenCV, FastAPI, Flask, React, PostgreSQL, Docker, Linux, Arduino, Git, GitHub Actions
 
 | Domain | Stack |
 | :--- | :--- |
@@ -64,7 +66,7 @@ class MuhammetEnesAydin:
 | Security & Web | CAN-OCPP Anomaly Detection, FastAPI, Flask, React, PostgreSQL, Gemini API, C2 Interfaces |
 ---
 
-## 📄 Portfolio
+##  Portfolio
 
 <p align="center">
   <a href="./portfoy_Eng.pdf">
